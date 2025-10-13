@@ -1,4 +1,4 @@
-# <3 React Native 8-bit Heart Rating <3 
+# React Native 8-bit Heart Rating ♥ ♥ ♥ ♥ ♥
 
 💾 a **retro-inspired** interactive **React Native rating component** built with **animated state transitions, gesture detection**, and supports **half-heart precision**. 
 
@@ -41,7 +41,7 @@ yarn add github:chloechartrand/react-native-heart-rating
 | `onRatingChange` | `(rating: number) => void` | `undefined` | Callback fired when the user taps or changes the rating. Returns the new value (can be 0.5 increments). |
 
 
-💾 **example with states** for API integration 💾
+👾 **example with states** for API integration 
 
 ```tsx
 import React, { useState } from "react";
@@ -59,7 +59,7 @@ export default function App() {
 }
 ```
 
-💾 **example with custom icons** assumes width of 24 💾
+👾 **example with custom icons** assumes width of 24 
 
 ```tsx
 import { StarEmpty, StarHalf, StarFull } from "../icons";
