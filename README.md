@@ -30,9 +30,9 @@ accordingly
 ## 💽 installation
 
 ```bash
-npm install github:chloechartrand/react-native-heart-rating
+npm install github:chloechartrand/react-native-8bit-heart-rating
 # or
-yarn add github:chloechartrand/react-native-heart-rating
+yarn add github:chloechartrand/react-native-8bit-heart-rating
 ```
 
 ---
