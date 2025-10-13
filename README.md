@@ -6,6 +6,12 @@
 
 ---
 
+## 💽 demo
+
+(./demo.gif)
+
+---
+
 ## 💽 highlights
 
 ⭐️ **supports half star ratings** switching between empty, half and full hearts 
@@ -33,7 +39,7 @@ yarn add github:chloechartrand/react-native-heart-rating
 
 ## 💽 usage 
 
-💾 **props** 💾
+💾 **props** 
 
 | Prop | Type | Default | Description |
 |------|------|----------|-------------|
@@ -59,7 +65,7 @@ export default function App() {
 }
 ```
 
-👾 **example with custom icons** assumes width of 24 
+👾 **example with custom icons** (assumes a width of 24) 
 
 ```tsx
 import { StarEmpty, StarHalf, StarFull } from "../icons";
