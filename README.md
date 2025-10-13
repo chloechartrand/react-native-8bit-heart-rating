@@ -1,4 +1,4 @@
-# React Native 8-bit Heart Rating ♥ ♥ ♥ ♥ ♥
+# react native 8-bit heart rating
 
 💾 a **retro-inspired** interactive **React Native rating component** built with **animated state transitions, gesture detection**, and supports **half-heart precision**. 
 
