@@ -52,7 +52,7 @@ yarn add github:chloechartrand/react-native-heart-rating
 ```tsx
 import React, { useState } from "react";
 import { View } from "react-native";
-import { HeartRating } from "react-native-heart-rating";
+import { HeartRating } from "react-native-8bit-heart-rating";
 
 export default function App() {
   const [rating, setRating] = useState(3.5);
