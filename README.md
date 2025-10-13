@@ -65,20 +65,4 @@ export default function App() {
 }
 ```
 
-👾 **example with custom icons** (assumes a width of 24) 
-
-```tsx
-import { StarEmpty, StarHalf, StarFull } from "../icons";
-
-<HeartRating
-  rating={rating}
-  onRatingChange={setRating}
-  icons={{
-    empty: <StarEmpty />,
-    half: <StarHalf />,
-    full: <StarFull />,
-  }}
-/>
-```
-
 ---
