@@ -1,27 +1,27 @@
-# <3 React Native 8-bit Heart Rating <3
+# <3 React Native 8-bit Heart Rating <3 
 
-a **retro-inspired** interactive **React Native rating component** built with **animated state transitions, gesture detection**, and supports **half-heart precision**. 
+💾 a **retro-inspired** interactive **React Native rating component** built with **animated state transitions, gesture detection**, and supports **half-heart precision**. 
 
-designed to be integrated into Windows-95/early internet inspired UIs. easily adapt to a star rating component with your own 8-bit svgs. 
+🕹️ designed to be integrated into Windows-95/early internet inspired UIs. easily adapt to a star rating component with your own 8-bit svgs. 
 
 ---
 
-## highlights
+## 💽 highlights
 
-**supports half star ratings** switching between empty, half and full hearts 
+⭐️ **supports half star ratings** switching between empty, half and full hearts 
 accordingly 
 
-**touch-based half-heart detection** with `GestureResponderEvent` logic.  
+⭐️ **touch-based half-heart detection** with `GestureResponderEvent` logic.  
 
-**animated API integration** for fluid transitions between rating states.  
+⭐️ **animated API integration** for fluid transitions between rating states.  
 
-**lightweight and dependency-free**, reliant only on core React Native APIs. 
+⭐️ **lightweight and dependency-free**, reliant only on core React Native APIs. 
 
-**customize** with your favourite 8-bit SVG icons
+⭐️ **customize** with your favourite 8-bit SVG icons
 
 ---
 
-## installation
+## 💽 installation
 
 ```bash
 npm install github:chloechartrand/react-native-heart-rating
@@ -31,9 +31,9 @@ yarn add github:chloechartrand/react-native-heart-rating
 
 ---
 
-## usage 
+## 💽 usage 
 
-**props**
+💾 **props** 💾
 
 | Prop | Type | Default | Description |
 |------|------|----------|-------------|
@@ -41,7 +41,7 @@ yarn add github:chloechartrand/react-native-heart-rating
 | `onRatingChange` | `(rating: number) => void` | `undefined` | Callback fired when the user taps or changes the rating. Returns the new value (can be 0.5 increments). |
 
 
-**example with states** for API integration 
+💾 **example with states** for API integration 💾
 
 ```tsx
 import React, { useState } from "react";
@@ -59,7 +59,7 @@ export default function App() {
 }
 ```
 
-**example with custom icons** assumes width of 24
+💾 **example with custom icons** assumes width of 24 💾
 
 ```tsx
 import { StarEmpty, StarHalf, StarFull } from "../icons";
