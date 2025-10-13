@@ -8,7 +8,7 @@
 
 ## 💽 demo
 
-(./demo.gif)
+![Heart Rating Demo](./demo.gif)
 
 ---
 
