@@ -14,7 +14,7 @@
 
 ## 💽 highlights
 
-⭐️ **supports half star ratings** switching between empty, half and full hearts 
+⭐️ **supports half heart ratings** switching between empty, half and full hearts 
 accordingly 
 
 ⭐️ **touch-based half-heart detection** with `GestureResponderEvent` logic.  
